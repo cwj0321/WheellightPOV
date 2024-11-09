@@ -1,2 +1,2 @@
 # WheellightPOV
-Wheellight utilizing afterimage effect with Arduino and Neo-pixels
+Wheellight utilizing persistence of vision effect with Arduino and Neo-pixels
